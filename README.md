@@ -1,6 +1,6 @@
 # Hi, I'm Baz00k 👋
 
-[![Baz00k's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Baz00k&layout=compact)](https://github.com/Baz00k)
+I create useless stuff
 
 <picture>
   <source
